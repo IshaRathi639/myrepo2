@@ -1,0 +1,11 @@
+1. GITHUB ACCOUNT
+
+2. Empty Repo
+
+3. Local System
+	-> Git Config --global user.name ="IshaRathi639"
+	-> Git config --global user.email ="isharathi639@gmail.com"
+
+4. Git Push -u origin master   (errror may occur)
+	->username ="IshaRathi639"
+	-> now we create a token from the setting device menu
